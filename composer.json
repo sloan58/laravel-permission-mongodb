@@ -13,9 +13,15 @@
         "spatie",
         "jenssegers"
     ],
-    "homepage": "https://github.com/mostafamaklad/laravel-permission-mongodb",
+    "homepage": "https://github.com/sloan58/laravel-permission-mongodb",
     "license": "MIT",
     "authors": [
+        {
+            "name": "Marty Sloan",
+            "email": "marty@karmatek.io",
+            "homepage": "https://github.com/sloan58",
+            "role": "Developer"
+        },
         {
             "name": "Mostafa Maklad",
             "email": "dev.mostafa.maklad@gmail.com",
